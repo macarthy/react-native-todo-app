@@ -1,3 +1,11 @@
+
+# An experiment in change a react web app to a native IOS / Android app. 
+
+steps will appear here
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
